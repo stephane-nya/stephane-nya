@@ -1,3 +1,5 @@
+![cover](https://github.com/stephane-nya/stephane-nya/assets/104197075/917cca8d-1d7c-45b4-8346-1ccfc3126d77)
+
 ### Salut 👋
 
 Bienvenue sur mon profil GitHub! Je suis Stephane, un développeur web passionné, récemment formé en développement fullstack. Ce README vise à présenter brièvement mon parcours, les langages et les frameworks que j'ai explorés pendant ma formation.
